@@ -1,10 +1,10 @@
 /*
- * This the Class of main JFrame
- * Home calss extends JPanel
- * This class include the all the sub Jpanel
- * This class set the layout of JFrame and 
- * Setting the JMenuBar
- * connetting all of the JPanel of this Program
+ * This is the class of main JFrame
+ * Home class extends JPanel
+ * This class includes the all the sub Jpanels
+ * This class sets the layout of JFrame and 
+ * Sets the JMenuBar
+ * Connecting all of the JPanels of this Program
  */
 import javax.swing.*;
 import java.awt.*;
